@@ -1,7 +1,7 @@
 # 🏪 Franquicias API
 
 API REST reactiva para gestión de franquicias, sucursales y productos.
-Desarrollada con **Spring Boot 4.0.6 + WebFlux + MongoDB**.
+Desarrollada con **Spring Boot 3.5.14 + WebFlux + MongoDB**.
 
 ---
 
@@ -260,7 +260,7 @@ Para destruir: `terraform destroy`
 | Tecnología | Uso |
 |---|---|
 | Java 21 | Lenguaje |
-| Spring Boot 4.0.6 | Framework principal |
+| Spring Boot 3.5.14 | Framework principal |
 | Spring WebFlux | Programación reactiva (Mono/Flux) |
 | Spring Data MongoDB Reactive | Persistencia reactiva |
 | MongoDB 7.0 | Base de datos |
